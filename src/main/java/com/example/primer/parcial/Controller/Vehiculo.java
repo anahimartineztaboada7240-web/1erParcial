@@ -19,7 +19,7 @@ public class Vehiculo {
         this.placa = placa;
         this.color = color;
     }
-    // revisado el codigo, hola mundo.
+    // hola mundo, pase a revisarlo.
 
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
